@@ -22,3 +22,9 @@ def graph_math(start , end , by , func ):
        
     else:
         raise NameError('Not Applicable function')
+USAGE:
+#start and end are just arguments for real line.. and by is increment value
+#between the range.
+
+#pass function that are available in the math module
+#graph_math(-10 , 10 , 1 , cos)
