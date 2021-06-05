@@ -22,7 +22,7 @@ def graph_math(start , end , by , func ):
        
     else:
         raise NameError('Not Applicable function')
-USAGE:
+#USAGE:
 #start and end are just arguments for real line.. and by is increment value
 #between the range.
 
