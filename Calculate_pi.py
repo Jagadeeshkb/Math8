@@ -10,7 +10,7 @@ def calculate_pi(n):
         b = 1-a
         periM = hex_sides*side
         new_side = math.sqrt( (half_side**2 +  b**2))
-        print(hex_sides , side , half_side, a,b,new_side,periM)
+        #print(hex_sides , side , half_side, a,b,new_side,periM)
         Pi = periM/2
         hex_sides = hex_sides * 2
         side = new_side
