@@ -1,4 +1,3 @@
-#importing math library
 import math
 
 #Calculating through Archemedian Method
