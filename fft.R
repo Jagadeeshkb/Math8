@@ -1,3 +1,4 @@
+#added Title
 # Generate a sine wave signal
 x <- seq(0, 2*pi, length.out = 100)
 y <- sin(5*x)
